@@ -10,7 +10,7 @@ Redirects from zh.m.wikipedia.org to zh.wikipedia.org
    + [安装脚本(Greasyfork)](https://greasyfork.org/zh-CN/scripts/457721) 
      + 如果没有出现脚本管理器的安装页面，则需要将代码复制下来。然后从脚本管理器中新建一个脚本，将自动生成的内容删除，粘贴复制的代码并保存。
 
-##声明
+## 声明
 * 本脚本不保证后期的更新与维护。
 * 本脚本原则上会重定向所有zh.m.wikipedia.org的网页至zh.wikipedia.org，此脚本在非条目空间可能并不好用（没测试过），介意的可以自行修改源代码或不使用此脚本。
 * Github的代码版本会与Greasyfork保持一致同步更新。
