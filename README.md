@@ -3,6 +3,7 @@
 因为在谷歌搜索结果的时候经常会出现域名为zh.m.wikipedia.org的手机端维基百科，并且其不会自动转为PC端网页。有时谷歌的结果默认为非用户常用变体，故写了一个十分简陋的重定向脚本使其重定向。
 
 Redirects from zh.m.wikipedia.org to zh.wikipedia.org
+
 Redirects from zh.wikipedia.org/zh-[a-z]{2,4}/ to zh.wikipedia.org/wiki/
 
 ## 使用方法
