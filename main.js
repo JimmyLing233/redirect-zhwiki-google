@@ -8,7 +8,6 @@
 // @include      *://zh.wikipedia.org/*
 // @license      MIT
 // @grant        none
-// @inject-into  auto
 // @run-at       document-start
 // ==/UserScript==
 
