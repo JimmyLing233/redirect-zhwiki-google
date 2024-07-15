@@ -2,6 +2,8 @@
 // @name         中文维百谷歌重定向
 // @version      2.2
 // @description  Redirects Wikipedia
+// @updateURL    https://raw.githubusercontent.com/JimmyLing233/redirect-zhwiki-google/main/redirect-zhwiki-google.user.js
+// @downloadURL  https://raw.githubusercontent.com/JimmyLing233/redirect-zhwiki-google/main/redirect-zhwiki-google.user.js
 // @namespace    https://github.com/JimmyLing233/redirect-zhwiki-google
 // @author       Akari
 // @include      *://zh.m.wikipedia.org/*
